@@ -1,2 +1,2 @@
-# test
-auto-test
+# JenkinsAutomation
+Codebase for Jenkins automation tutorial
