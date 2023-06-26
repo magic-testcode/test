@@ -1,6 +1,6 @@
 pipeline {
     agent any
-
+//any stage
     stages {
         stage('First') {
             steps {
@@ -27,7 +27,7 @@ pipeline {
                 echo "This is 5th stage"
             }
         }
-  stage('sith') {
+  stage('sixth') {
             steps {
                 echo "This is 6th stage"
             }
